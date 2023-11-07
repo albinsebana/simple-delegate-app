@@ -1,0 +1,15 @@
+C:\Users\albin.kurian\Desktop\DotNet\section24\SimpleDelegateApp\SimpleDelegateApp\bin\Debug\net6.0\SimpleDelegateApp.exe
+C:\Users\albin.kurian\Desktop\DotNet\section24\SimpleDelegateApp\SimpleDelegateApp\bin\Debug\net6.0\SimpleDelegateApp.deps.json
+C:\Users\albin.kurian\Desktop\DotNet\section24\SimpleDelegateApp\SimpleDelegateApp\bin\Debug\net6.0\SimpleDelegateApp.runtimeconfig.json
+C:\Users\albin.kurian\Desktop\DotNet\section24\SimpleDelegateApp\SimpleDelegateApp\bin\Debug\net6.0\SimpleDelegateApp.dll
+C:\Users\albin.kurian\Desktop\DotNet\section24\SimpleDelegateApp\SimpleDelegateApp\bin\Debug\net6.0\SimpleDelegateApp.pdb
+C:\Users\albin.kurian\Desktop\DotNet\section24\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\net6.0\SimpleDelegateApp.csproj.AssemblyReference.cache
+C:\Users\albin.kurian\Desktop\DotNet\section24\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\net6.0\SimpleDelegateApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin.kurian\Desktop\DotNet\section24\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\net6.0\SimpleDelegateApp.AssemblyInfoInputs.cache
+C:\Users\albin.kurian\Desktop\DotNet\section24\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\net6.0\SimpleDelegateApp.AssemblyInfo.cs
+C:\Users\albin.kurian\Desktop\DotNet\section24\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\net6.0\SimpleDelegateApp.csproj.CoreCompileInputs.cache
+C:\Users\albin.kurian\Desktop\DotNet\section24\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\net6.0\SimpleDelegateApp.dll
+C:\Users\albin.kurian\Desktop\DotNet\section24\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\net6.0\refint\SimpleDelegateApp.dll
+C:\Users\albin.kurian\Desktop\DotNet\section24\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\net6.0\SimpleDelegateApp.pdb
+C:\Users\albin.kurian\Desktop\DotNet\section24\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\net6.0\SimpleDelegateApp.genruntimeconfig.cache
+C:\Users\albin.kurian\Desktop\DotNet\section24\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\net6.0\ref\SimpleDelegateApp.dll
